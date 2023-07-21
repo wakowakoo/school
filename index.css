@@ -24,6 +24,11 @@ main {
     .header-logo {
       color: red;
     }
+    .header-list a{
+      color:#dba584;
+      float:left;
+      padding-left:20px;
+    }
   }
   
 
