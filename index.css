@@ -18,8 +18,14 @@ main {
     float:left;
     font-size:40px;
     padding:20px 40px;
-  
   }
+
+  @media (max-width:500px) {
+    .header-logo {
+      color: red;
+    }
+  }
+  
 
   .header-list a {
     color:#dba584;
@@ -45,9 +51,6 @@ main {
     font-size:30px;
   }
   
-  img{
-
-  }
 
   .contents{
     padding-bottom:200px;
