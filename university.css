@@ -1,0 +1,58 @@
+main {
+    font-family: "Avenir Next";
+  }
+
+  li {
+    list-style: none;
+  }
+
+  .header{
+    background-color:#12b37d;
+    color:white;
+    font-size:30px;
+    height:80px;
+    padding:40px;
+  }
+
+  .header-logo {
+    float:left;
+    font-size:40px;
+    padding:20px 40px;
+  
+  }
+
+  .header-list a {
+    color:#dba584;
+    float:right;
+    padding-left:  20px;
+  }
+
+  .main{
+    background-color:#ffffff;
+  }
+
+  .intro{
+    font-family:"MS MIncho";
+    background-color: rgb(175, 177, 177);
+    margin-top:10px;
+    padding-top:40px;
+    padding-bottom:10px;
+  }
+
+  .name{
+    padding-top:10px;
+    border-bottom:1px solid #dee7ec;
+    font-size:30px;
+  }
+  
+  img{
+
+  }
+
+  .contents{
+    padding-bottom:200px;
+  }
+
+  .contents p{
+    margin-bottom:2em;
+  }
